@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "japanese-tutor"
+version = "0.1.0"
+description = "Local Japanese immersion tools for teaching agents"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+japanese-tutor = "japanese_tutor.cli:main"
+japanese-tutor-mcp = "japanese_tutor.mcp_server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+japanese_tutor = ["content/*.json", "content/*.md", "migrations/*.sql"]

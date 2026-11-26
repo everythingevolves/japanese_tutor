@@ -1,0 +1,27 @@
+[
+  {
+    "number": 1,
+    "title": "A new neighborhood",
+    "goal": "Introduce yourself, order, establish routines"
+  },
+  {
+    "number": 2,
+    "title": "Becoming a regular",
+    "goal": "Share preferences, invite someone, make or decline plans"
+  },
+  {
+    "number": 3,
+    "title": "Exploring Japan",
+    "goal": "Ask for directions, seek alternatives, describe a trip"
+  },
+  {
+    "number": 4,
+    "title": "Developing friendships",
+    "goal": "Use casual register, tell stories, repair misunderstandings"
+  },
+  {
+    "number": 5,
+    "title": "Living in Japanese",
+    "goal": "Sustain open conversation and discuss authentic media"
+  }
+]

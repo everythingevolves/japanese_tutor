@@ -1,0 +1,55 @@
+[
+  [
+    "start_activity",
+    {
+      "change_id": "demo-film",
+      "revision": 0,
+      "activity": "Listening lesson",
+      "scene": "film",
+      "prompt": {
+        "speaker": "yui",
+        "text": "また明日、ここで会おう。"
+      }
+    }
+  ],
+  [
+    "save_material",
+    {
+      "speaker": "葵",
+      "line": "また明日、ここで会おう。",
+      "source": {
+        "title": "河原の約束 (fictional evaluation clip)",
+        "locator": "Scene 2",
+        "timestamp_seconds": 72
+      }
+    }
+  ],
+  [
+    "record_turn",
+    {
+      "turn_id": "film-answer",
+      "revision": 1,
+      "presented": "audio",
+      "response_mode": "spoken",
+      "response": "明日もここで会う約束だね。",
+      "japanese_production": true,
+      "observations": [
+        {
+          "material": "$bookmark",
+          "skill": "listening_recognition",
+          "outcome": "independent"
+        }
+      ],
+      "facts": [
+        {
+          "witness": "yui",
+          "fact": "We discussed the meeting promised in the film."
+        }
+      ],
+      "next_prompt": {
+        "speaker": "yui",
+        "text": "二人はまた会えると思う？"
+      }
+    }
+  ]
+]

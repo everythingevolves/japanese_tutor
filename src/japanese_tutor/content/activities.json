@@ -1,0 +1,78 @@
+{
+  "Continue lesson": [
+    [
+      "Review in context",
+      5
+    ],
+    [
+      "New dialogue",
+      5
+    ],
+    [
+      "Grammar discovery",
+      5
+    ],
+    [
+      "Comprehension and conversation",
+      5
+    ]
+  ],
+  "Reading immersion": [
+    [
+      "Read a short scene with familiar language",
+      8
+    ],
+    [
+      "Infer meaning and retell",
+      7
+    ]
+  ],
+  "Listening lesson": [
+    [
+      "Listening review",
+      10
+    ],
+    [
+      "New dialogue",
+      10
+    ],
+    [
+      "Sentence variations",
+      10
+    ],
+    [
+      "Listening and shadowing",
+      10
+    ],
+    [
+      "Conversation",
+      5
+    ]
+  ],
+  "Grammar deep dive": [
+    [
+      "Compare examples",
+      5
+    ],
+    [
+      "Infer and discuss the pattern",
+      5
+    ],
+    [
+      "Try a new combination",
+      5
+    ]
+  ],
+  "Review": [
+    [
+      "Revisit due targets in a new context",
+      10
+    ]
+  ],
+  "Free conversation": [
+    [
+      "Follow the learner’s interests in character",
+      15
+    ]
+  ]
+}

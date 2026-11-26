@@ -1,0 +1,98 @@
+{
+  "cafe.first": {
+    "chapter": 1,
+    "title": "美香’s café",
+    "setting": "On your second morning in Tokyo, you step into a quiet café near your new apartment. The owner smiles.",
+    "cast": [
+      "mika"
+    ],
+    "targets": [
+      "greeting",
+      "first-time"
+    ],
+    "opening": {
+      "speaker": "mika",
+      "text": "おはようございます！ 初（はじ）めてですか？"
+    }
+  },
+  "cafe.return": {
+    "chapter": 1,
+    "title": "Back at the café",
+    "setting": "You stop by the café again. Let 美香 recall what you actually told her.",
+    "cast": [
+      "mika"
+    ],
+    "targets": [
+      "order",
+      "preference"
+    ],
+    "opening": {
+      "speaker": "mika",
+      "text": "こんにちは。今日は何（なに）にしますか？"
+    }
+  },
+  "weekend": {
+    "chapter": 2,
+    "title": "Making Saturday plans",
+    "setting": "A regular at the café is choosing a film for Saturday. Your answer determines whether the plan goes ahead.",
+    "cast": [
+      "yui"
+    ],
+    "targets": [
+      "invitation",
+      "preference"
+    ],
+    "opening": {
+      "speaker": "yui",
+      "text": "土曜日（どようび）、一緒（いっしょ）に映画（えいが）を見ませんか？"
+    }
+  },
+  "station": {
+    "chapter": 3,
+    "title": "A change of trains",
+    "setting": "Your train has already left. Ask the station attendant for another route.",
+    "cast": [
+      "kei"
+    ],
+    "targets": [
+      "next-train",
+      "order"
+    ],
+    "opening": {
+      "speaker": "kei",
+      "text": "次（つぎ）の電車（でんしゃ）にしますか？"
+    }
+  },
+  "dinner": {
+    "chapter": 4,
+    "title": "Catching up over dinner",
+    "setting": "An old friend asks about your trip. Follow a detail, joke or misunderstanding across several turns.",
+    "cast": [
+      "yui"
+    ],
+    "targets": [
+      "experience",
+      "preference"
+    ],
+    "opening": {
+      "speaker": "yui",
+      "text": "旅行（りょこう）、どうだった？"
+    }
+  },
+  "film": {
+    "chapter": 5,
+    "title": "Talking after a show",
+    "setting": "Discuss a scene you chose, explain a reaction, and let the conversation follow your interests.",
+    "cast": [
+      "yui"
+    ],
+    "targets": [
+      "opinion",
+      "experience"
+    ],
+    "opening": {
+      "speaker": "yui",
+      "text": "あの場面（ばめん）、どう思（おも）った？"
+    }
+  }
+}

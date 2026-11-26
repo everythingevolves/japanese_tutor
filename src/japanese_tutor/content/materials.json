@@ -1,0 +1,42 @@
+{
+  "greeting": {
+    "line": "おはようございます",
+    "meaning": "Good morning",
+    "scene": "cafe.first"
+  },
+  "first-time": {
+    "line": "初めてですか？",
+    "meaning": "Is this your first time?",
+    "scene": "cafe.first"
+  },
+  "order": {
+    "line": "何にしますか？",
+    "meaning": "What will you have?",
+    "scene": "cafe.return"
+  },
+  "preference": {
+    "line": "コーヒーは好きですか？",
+    "meaning": "Do you like coffee?",
+    "scene": "cafe.return"
+  },
+  "invitation": {
+    "line": "一緒に映画を見ませんか？",
+    "meaning": "Would you like to see a film together?",
+    "scene": "weekend"
+  },
+  "next-train": {
+    "line": "次の電車",
+    "meaning": "the next train",
+    "scene": "station"
+  },
+  "experience": {
+    "line": "どうだった？",
+    "meaning": "How was it?",
+    "scene": "dinner"
+  },
+  "opinion": {
+    "line": "どう思った？",
+    "meaning": "What did you think?",
+    "scene": "film"
+  }
+}

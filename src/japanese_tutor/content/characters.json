@@ -1,0 +1,14 @@
+{
+  "mika": {
+    "name": "美香（みか）",
+    "voice": "A welcoming café owner. Uses short, polite questions."
+  },
+  "yui": {
+    "name": "結衣（ゆい）",
+    "voice": "A neighborhood film lover. Starts politely and grows more casual with familiarity."
+  },
+  "kei": {
+    "name": "圭（けい）",
+    "voice": "A station attendant. Offers concrete alternatives in polite Japanese."
+  }
+}
